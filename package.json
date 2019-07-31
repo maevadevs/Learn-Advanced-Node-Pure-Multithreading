@@ -1,0 +1,11 @@
+{
+  "name": "node-multi-threading",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "napajs": "^0.2.3",
+    "sleep": "^5.2.3"
+  }
+}
